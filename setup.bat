@@ -4,9 +4,9 @@ color 5
 title Checking Python Version
 python --version > nul 2>&1
 if %errorlevel% neq 0 (
-    echo Python is not installed! (Go to https://www.python.org/downloads and install the latest version.^)
-    echo Make sure it is added to PATH.
-    pause > nul
+    echo Python is not installed! Automatically downloading and installing...
+    curl -o python_installer.exe https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+    python_installer.exe /quiet InstallAllUsers=1 PrependPath=1
 )
 
 title Installing Requirements
